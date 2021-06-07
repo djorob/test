@@ -48,6 +48,7 @@ if (empty($_POST[$vehicule])) {
         <p>
             <input type="text" name="vehicule" />
             <input type="submit" value="Valider" />
+            <label> test </label>
         </p>
     </form>
 
